@@ -1,6 +1,6 @@
 {
   "name": "sequentially-run-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runs a promise N amount of times, serially",
   "main": "src/index.js",
   "scripts": {
@@ -11,5 +11,12 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^25.5.3"
-  }
+  },
+  "homepage": "https://github.com/PabloMDiez/sequentially-run-promise",
+  "bugs": "https://github.com/PabloMDiez/sequentially-run-promise/issues",
+  "keywords": [
+    "serial",
+    "promise",
+    "await"
+  ]
 }
