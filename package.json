@@ -1,0 +1,15 @@
+{
+  "name": "sequentially-run-promise",
+  "version": "1.0.0",
+  "description": "Runs a promise N amount of times, serially",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git@github.com:PabloMDiez/sequentially-run-promise",
+  "author": "Pablo M. Diez <git@pablomdiez.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.5.3"
+  }
+}
